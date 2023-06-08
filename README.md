@@ -3,6 +3,7 @@
 - candidate : String
 - numVotes : int
 <<constructor>>+ Election ( )
+  
 <<constructor>>+ Election (nm : String, nVotes : int)
 + setCandidate( nm : String)
 + setNumVotes( ) : int
