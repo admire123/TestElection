@@ -6,6 +6,7 @@
 <<constructor>>+ Election (nm : String, nVotes : int)
 + setCandidate( nm : String)
 + setNumVotes( ) : int
+  
 
 Using your knowledge of classes, arrays, and array list, write the Java code for the 
 UML above in NetBeans. [7 marks]
